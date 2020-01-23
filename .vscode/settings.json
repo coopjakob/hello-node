@@ -2,5 +2,7 @@
     "appService.zipIgnorePattern": [
         "node_modules{,/**}",
         ".vscode{,/**}"
-    ]
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/9c148492-100d-4840-84af-b2edb10b9a38/resourceGroups/resource-group-2/providers/Microsoft.Web/sites/artstubbe-picklad",
+    "appService.deploySubpath": ""
 }
